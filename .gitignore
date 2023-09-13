@@ -1,4 +1,4 @@
 *.exe
-*.h
-*.cpp
+.practicamos c++/*.h
+.practicamos c++/*.cpp
 .vscode/
